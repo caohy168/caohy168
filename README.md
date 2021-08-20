@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @caohy168
 - 👀 I’m interested in program and sport.
-- 🌱 I’m currently learning linux and docker.
+- 🌱 I’m currently learning linux and use kali.
 - 💞️ I’m looking to collaborate on making money.
 - 📫 How to connect me caohuiyang666@sina.com
 
